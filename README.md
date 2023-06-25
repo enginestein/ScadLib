@@ -14,7 +14,7 @@ Include scadlib.scad file in your project to use ScadLib
 include <scadlib.scad>
 ```
 
-View [examples](https://github.com/enginestein/ScadLib.git) for further information about using ScadLib and read below documentation.
+View [examples](https://github.com/enginestein/ScadLib/blob/main/examples.scad) for further information about using ScadLib and read below documentation.
 
 # Docs
 
