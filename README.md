@@ -2,6 +2,20 @@
 
 ScadLib is an OpenSCAD library containing bunch of useful functions.
 
+### To use ScadLib in your project:
+
+```powershell
+git clone https://github.com/enginestein/ScadLib.git
+```
+
+Include scadlib.scad file in your project to use ScadLib
+
+```openscad
+include <scadlib.scad>
+```
+
+View [examples](https://github.com/enginestein/ScadLib.git) for further information about using ScadLib and read below documentation.
+
 # Docs
 
 * All shapes and solids default to `center = true`, though component mocks are positioned to suit their typical use case (e.g. screws are aligned with head in positive and shank in negative y axis).
