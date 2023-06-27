@@ -1,5 +1,5 @@
 // ****************************************************************************
-// Grid (for reinforcement, for example)
+// Grid (for reinforcement, for example) 
  
 module grid(
 		dim = [100, 100],
