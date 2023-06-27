@@ -1,7 +1,7 @@
 // ****************************************************************************
 // rounded square
 
-module rounded_square(dim, r, center = true) {
+module rounded_square(dim, r, center = true) { 
 
 	// limit r to half of smallest dimension
 	_r = min(r, min(dim) / 2);
