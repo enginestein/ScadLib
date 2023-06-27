@@ -1,9 +1,3 @@
-// bezier formulas from https://pomax.github.io/bezierinfo/
-
-
-
-
-
 // if(degree < 1) throw new Error('degree must be at least 1 (linear)');
 // if(degree > (n-1)) throw new Error('degree must be less than or equal to point count - 1');
 // module b_spline(points, t, degree = 2) {
