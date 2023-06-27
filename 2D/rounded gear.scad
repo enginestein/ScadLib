@@ -3,7 +3,7 @@
 
 include <smooth.scad>
 
-module rounded_gear(r = 10, n = 3) {
+module rounded_gear(r = 10, n = 3) { 
 
 	a = 360 / n / 4;
 	r_point = sin(a) * r;
