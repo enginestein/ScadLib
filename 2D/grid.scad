@@ -5,7 +5,7 @@ module grid(
 		dim = [100, 100],
 		divisions = [10, 10],
 		walls = 1,
-		edges = true,
+		edges = true, 
 		center = true
 	) {
 
